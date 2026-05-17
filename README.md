@@ -1,6 +1,4 @@
 # Space Shooter Game
-
-## Description
 Space Shooter is an exciting arcade-style game built using Python and Pygame. Players control a spaceship, dodge enemies, and shoot to survive while progressing through increasingly challenging levels.
 
 ## Features
