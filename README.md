@@ -31,7 +31,6 @@ Space Shooter is an exciting arcade-style game built using Python and Pygame. Pl
 pygame-project/
 ├── code/
 │   └── main.py       # Main game logic
-├── images/           # Game assets (icons, sprites, etc.)
 └── README.md         # Project documentation
 ```
 
