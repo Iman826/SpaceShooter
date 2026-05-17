@@ -24,7 +24,6 @@ Space Shooter is an exciting arcade-style game built using Python and Pygame. Pl
 2. Use the following controls to play:
    - **Arrow Keys / WASD**: Move the spaceship
    - **Spacebar**: Shoot bullets
-   - 
 
 
 3. Survive waves of enemies and progress through levels.
