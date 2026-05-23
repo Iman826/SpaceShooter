@@ -36,6 +36,15 @@ pygame-project/
 └── README.md         # Project documentation
 ```
 
+## Screenshots
+
+### Menu
+![Menu](previews/menu.png)
+
+### Gameplay
+![Gameplay](previews/gameplay.png)
+
+
 ## Troubleshooting
 - **Out of Memory Error**: Ensure your system has enough memory and avoid running other heavy applications simultaneously.
 - **ModuleNotFoundError: No module named 'pygame'**: Install Pygame using the command `pip install pygame`.
